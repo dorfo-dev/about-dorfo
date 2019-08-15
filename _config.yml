@@ -16,7 +16,7 @@ dribbble_username:
 facebook_username: 
 flickr_username: 
 instagram_username: rodolfocapelline
-linkedin_username: http://goo.gl/jr5nRm
+linkedin_username: rodolfo-capelline-172057b4
 xing_username: 
 pinterest_username: 
 youtube_username: 
@@ -46,9 +46,8 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  Agora falando um pouco mais sobre min, minhas paixões são, minha companheira(esposa) e minhas cachorras.
+  Meus hobbies são, fazer trilhas, andar de moto e comer *pizza* 
 
 # Footer
 footer_show_references: true
