@@ -26,7 +26,7 @@ googleplus_username:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/me.jpeg
 about_content: | # this will include new lines to allow paragraphs
- Olá meu nome é Rodolfo, conhecido como Dorfo, sou desenvolvedor full Stack, tenho experiência nas tecnologias mais novas com as quais trabalho diariamente.
+ Olá meu nome é Rodolfo, conhecido como Dorfo, sou desenvolvedor full Stack, tenho experiência em tecnologias mais atuais com as quais trabalho diariamente.
 
   Skills
     - PHP
