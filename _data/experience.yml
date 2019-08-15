@@ -4,13 +4,10 @@
   #link: Link to company (optional)
   job_title: Software Developer
   dates: Agosto/2016 à Agosto/2019 
- # quote: >
-  # Short description of the company (optional)
+  quote: >
+   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-     Parte da equipe de desenvolvimento front-end (AngularJS web app)
-	   Parte da equipe de desenvolvimento back-end (Laravel e Python)
-	   Líder na iniciativa de refactoring do front-end.  (AngularJS web app)
-	   Desenvolvimento Full Stack utilizando Node.js, Express, Restify, React, Angular, e MongoDB.
+     Os papeis desempenhados na empresa era na equipe de desenvolvimento front-end (AngularJS web app) e na equipe de desenvolvimento back-end (Laravel e Python), líderei a iniciativa de refactoring do front-end legado feito em (AngularJS web app), também trabalhei com desenvolvimento Full Stack utilizando Node.js, Express, Restify, React, Angular, e MongoDB.
 
     
 - layout: left
