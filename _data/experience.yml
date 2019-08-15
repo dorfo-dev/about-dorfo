@@ -4,28 +4,21 @@
   #link: Link to company (optional)
   job_title: Software Developer
   dates: Agosto/2016 à Agosto/2019 
-  quote: >
-   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-     Os papeis desempenhados na empresa era na equipe de desenvolvimento front-end (AngularJS web app) e na equipe de desenvolvimento back-end (Laravel e Python), líderei a iniciativa de refactoring do front-end legado feito em (AngularJS web app), também trabalhei com desenvolvimento Full Stack utilizando Node.js, Express, Restify, React, Angular, e MongoDB.
+     Os papeis desempenhados na empresa era na equipe de desenvolvimento front-end (AngularJS web app) e na equipe de desenvolvimento back-end (Laravel e Python), líderei a iniciativa de refactoring do front-end legado feito em (AngularJS web app), também trabalhei com desenvolvimento Full Stack utilizando Node.js, Express, Restify, React, Angular e MongoDB.
 
     
 - layout: left
-  company: Company name 2 
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+  company: LECOM S/A
+  #link: Link to company (optional)
+  job_title: Programador/Suporte
+  dates: Junho/2015 à Abril/2016
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Desenvolvimento de integrações com sistemas SAP e TOTVS se utilizando de Web Services, atendimento ao cliente por e-mails, telefone e mensageiros instantâneos; análise e desenvolvimento de processos de BPM; manutenção da base de dados do produto.
 
 - layout: left
-  company: Company name 2 
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+  company: UPPERCASE CONSULTORIA
+  job_title: Software Developer
+  dates: Agosto/2012 à Março/2015
   description: | # this will include new lines to allow paragraphs
-    Description of role
+   Desenvolvimento de novas funcionalidades se utilizando da linguagem de programação C#; manutenção de bases de dados; manutenção corretiva e preventiva; interoperabilidade dos sistemas com WCF.
