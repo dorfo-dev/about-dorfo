@@ -1,5 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+#repository: 
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
@@ -47,6 +47,15 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   Agora falando um pouco mais sobre min, minhas paixões são, minha companheira(esposa) e minhas cachorras. Meus hobbies são, fazer trilhas, andar de moto e comer *pizza* 
+  
+  *Alguns cursos extras*
+    - Scrum Foundation Professional Certificate - (Portuguese)
+    - Curso Desenvolvimento Mobile (Android) Caelum;
+    - Curso Complementar Magento Commerce;
+    - Curso Complementar CCNA Exploration Network Fundamentals;
+    - Curso Complementar Fundamentos do Entity Framework 4;
+    - Curso Complementar Fundamentos do Desenvolvimento de Software;
+    - Curso Complementar HTML5 – Homologado pelo W3C.
 
 # Footer
 footer_show_references: true
