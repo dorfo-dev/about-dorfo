@@ -46,7 +46,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  Agora falando um pouco mais sobre min, minhas paixões são, minha companheira(esposa) e minhas cachorras. | Meus hobbies são, fazer trilhas, andar de moto e comer *pizza* 
+  Agora falando um pouco mais sobre min, minhas paixões são, minha companheira(esposa) e minhas cachorras. Meus hobbies são, fazer trilhas, andar de moto e comer *pizza* 
 
 # Footer
 footer_show_references: true
