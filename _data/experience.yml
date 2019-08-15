@@ -6,7 +6,7 @@
   dates: Agosto/2016 à Agosto/2019 
   description: | # this will include new lines to allow paragraphs
      As funções desempenhadas na empresa consistia na equipe de desenvolvimento front-end (AngularJS web app) e na equipe de desenvolvimento back-end (Laravel e Python), liderei a iniciativa de refactoring do front-end legado feito em (AngularJS web app), também trabalhei com desenvolvimento Full Stack utilizando Node.js, Express, Restify, React, Angular e MongoDB
-     
+
 - layout: left
   company: LECOM S/A
   #link: Link to company (optional)
@@ -20,4 +20,4 @@
   job_title: Software Developer
   dates: Agosto/2012 à Março/2015
   description: | # this will include new lines to allow paragraphs
-   Desenvolvimento de novas funcionalidades se utilizando da linguagem de programação C#; manutenção de bases de dados; manutenção corretiva e preventiva; interoperabilidade dos sistemas com WCF.
+   Desenvolvimento de novas funcionalidades utilizando a linguagem de programação C#; manutenção de bases de dados; manutenção corretiva e preventiva; interoperabilidade dos sistemas com WCF.
