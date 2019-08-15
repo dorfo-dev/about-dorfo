@@ -1,6 +1,20 @@
 # Experience template
 - layout: left
-  company: Company name 1
+  company: NEW WAY SOLUÇÕES DIGITAIS (Bauru/ SP)
+  #link: Link to company (optional)
+  job_title: Software Developer
+  dates: Agosto/2016 à Agosto/2019 
+ # quote: >
+  # Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    - Parte da equipe de desenvolvimento front-end (AngularJS web app)
+	  - Parte da equipe de desenvolvimento back-end (Laravel e Python)
+	  - Líder na iniciativa de refactoring do front-end.  (AngularJS web app)
+	  - Desenvolvimento Full Stack utilizando Node.js, Express, Restify, React, Angular, e MongoDB.
+
+    
+- layout: left
+  company: Company name 2 
   link: Link to company (optional)
   job_title: Job title
   dates: Date Range (eg. November 2016 - present)
@@ -8,6 +22,7 @@
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Description of role
+
 - layout: left
   company: Company name 2 
   link: Link to company (optional)
