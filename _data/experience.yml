@@ -1,5 +1,14 @@
 # Experience template
 - layout: left
+  company: Modal as a Service (Jaú / SP)
+  #link: Link to company (optional)
+  job_title: Desenvolvedor
+  dates: Outubro/2019 à Setembro/2023 
+  description: | # this will include new lines to allow paragraphs
+    No desempenho das minhas funções como desenvolvedor, com ocasionais responsabilidades de liderança de equipe, tive a oportunidade de conceber aplicações backend, fazendo uso das seguintes tecnologias: Node.js, MongoDB, PostgreSQL, Redis e RabbitMQ. Ao longo dos quatro anos de serviço na empresa, fui honrado em coordenar diversas reuniões técnicas abordando uma ampla gama de tópicos relacionados à nossa pilha tecnológica, incluindo novas tecnologias emergentes.
+    Durante este período, muitas das aplicações nas quais participei do desenvolvimento foram eficazmente implantadas na plataforma de nuvem Azure, com algumas delas sendo hospedadas em WebApps e outras em clusters AKS (Kubernetes).
+
+- layout: left
   company: NEW WAY SOLUÇÕES DIGITAIS (Bauru/ SP)
   #link: Link to company (optional)
   job_title: Software Developer

@@ -4,10 +4,10 @@
 
 # Personal info
 name: Rodolfo Capellini
-title: Software Developer Full Stack
+title: Desenvolvedor
 email: rodolfocapelline@gmail.com
 phone: (14) - 99777-7195
-website: 
+website: https://dorfo-dev.github.io/about-dorfo/
 
 # Social links
 twitter_username: 
@@ -16,7 +16,7 @@ dribbble_username:
 facebook_username: 
 flickr_username: 
 instagram_username: rodolfocapelline
-linkedin_username: rodolfo-capelline-172057b4
+linkedin_username: rodolfo-capellini
 xing_username: 
 pinterest_username: 
 youtube_username: 
@@ -32,9 +32,9 @@ about_content: | # this will include new lines to allow paragraphs
     - PHP
     - NodeJs
     - Angular
-    - React
     - MongoDB
     - MySql
+    - Postgres
     - Redis
 
 # Projects Section
@@ -50,6 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   Agora falando um pouco mais sobre mim, minhas paixões são, minha companheira(esposa) e minhas cachorras. Meus hobbies são, fazer trilhas, andar de moto e comer pizza.
+
   *Alguns cursos extras*
     - Scrum Foundation Professional Certificate - (Portuguese);
     - Curso Desenvolvimento Mobile (Android) Caelum;
