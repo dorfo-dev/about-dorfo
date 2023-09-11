@@ -7,7 +7,7 @@ name: Rodolfo Capellini
 title: Desenvolvedor
 email: rodolfocapelline@gmail.com
 phone: (14) - 99777-7195
-website: https://dorfo-dev.github.io/about-dorfo/
+website: 
 
 # Social links
 twitter_username: 
@@ -26,16 +26,19 @@ googleplus_username:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/me.jpeg
 about_content: | # this will include new lines to allow paragraphs
- Olá meu nome é Rodolfo, conhecido como Dorfo, sou desenvolvedor full Stack. Busco na tecnologia uma forma eficaz de resolver problemas e/ou simplificar o dia a dia das pessoas.
+  Saudações, meu nome é Rodolfo, embora seja mais conhecido como Dorfo. Sou um profissional de desenvolvimento e tenho como objetivo utilizar a tecnologia de maneira eficaz para resolver desafios e simplificar a vida das pessoas.
 
-  Skills
+  Minhas habilidades incluem:
     - PHP
-    - NodeJs
+    - Node.js
+    - .Net C#
     - Angular
     - MongoDB
-    - MySql
-    - Postgres
+    - MySQL
+    - PostgreSQL
     - Redis
+
+  Estou comprometido em aplicar essas competências para criar soluções inovadoras e melhorar a experiência tecnológica em diversos contextos.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -49,9 +52,14 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  Agora falando um pouco mais sobre mim, minhas paixões são, minha companheira(esposa) e minhas cachorras. Meus hobbies são, fazer trilhas, andar de moto e comer pizza.
+  Agora, compartilhando um pouco mais sobre mim, minhas paixões incluem minha esposa, minhas três adoráveis cachorras e meus cinco gatos - tenho um profundo amor pelos animais. Quanto aos meus hobbies, gosto de explorar trilhas na natureza, viajar para novos lugares e desfrutar de uma boa pizza.
 
   *Alguns cursos extras*
+    - TDD com xUnit para C# .NET Core
+    - Fundamentos de Arquitetura de Microsserviços (Microservices)
+    - Clean Architecture Essencial - ASP .NET Core com C#
+    - NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID
+    - NodeJs Avançado com TDD, Clean Architecture e Typescript
     - Scrum Foundation Professional Certificate - (Portuguese);
     - Curso Desenvolvimento Mobile (Android) Caelum;
     - Curso Complementar Magento Commerce;
